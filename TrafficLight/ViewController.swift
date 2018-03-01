@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     // declare the variable trafficLightColour and initialise it to green
     var trafficLightColour = "green"
 
-    // setup Outlets for the 2 labels, one for the colour and one for info
+    // setup Outlets for the 2 labels, one for the colour and one for the display info
     @IBOutlet weak var colourLabel: UILabel!
     @IBOutlet weak var colourInfo: UILabel!
     
